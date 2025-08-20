@@ -10,8 +10,7 @@
   <img align="center" alt="Th-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="Th-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=famozinho3&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=24db24&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=famozinho3&redirect=true)
 </div>
   
   ##
