@@ -1,6 +1,6 @@
 ## Olá ! Me chamo Thiago Dantas.
 
-## Estudante de Engenharia de Software com foco em Engenharia de Dados e Desenvolvimento Back-end. Tenho experiência com Python, SQL e C#, e também habilidades em JavaScript para aplicações web. Atuo com ETL, análise de dados, automação e visualização, utilizando ferramentas como Pandas, NumPy, Matplotlib, Seaborn e Spark Aqui compartilho projetos que refletem meu aprendizado e evolução na área de tecnologia e dados. 🚀
+## Estudante de Engenharia de Software com foco em Engenharia de Dados e Desenvolvimento Back-end. Tenho experiência com Python, SQL e C#, e também habilidades em JavaScript, Node.JS e React.Js para aplicações web. Atuo com ETL, análise de dados, automação e visualização, utilizando ferramentas como Pandas, NumPy, Matplotlib, Seaborn e Spark Aqui compartilho projetos que refletem meu aprendizado e evolução na área de tecnologia e dados. 🚀
 
 
 <div style="display: inline_block"><br>
